@@ -8,7 +8,6 @@ Hello World
     <meta charset="utf-8" />
     <link rel="stylesheet" href="style.css" />
 
-    <title>Assignment 1: GitHub practice</title>
 </head>
 
 <body>
@@ -24,7 +23,6 @@ Hello World
         <img src="mypic.png" alt="picture" width="200" height="200">
 
 
-    </div>
 </body>
 
 </html>
